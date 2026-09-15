@@ -1,13 +1,11 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "name": "Oovi Local SEO",
+  "projectType": "general",
+  "projectName": "Oovi Local SEO",
+  "projectDescription": "Standard operating procedures and training documentation for the Oovi local SEO team, covering client onboarding, campaign workflows, reporting, and day-to-day operations.",
   "theme": "almond",
-  "colors": {
-    "primary": "#ef7025",
-    "light": "#eec9bc",
-    "dark": "#4fa1ab"
-  },
-  "favicon": "/favicon.svg",
+  "primaryColor": "#ef7025",
+  "lightColor": "#eec9bc",
+  "darkColor": "#4fa1ab",
   "navigation": {
     "tabs": [
       {
@@ -61,5 +59,18 @@
         ]
       }
     ]
-  }
+  },
+  "keyFeatures": [
+    "Client onboarding and intake workflows",
+    "Google Business Profile (GMB) optimization SOPs",
+    "Citation and directory listing management",
+    "On-page local SEO procedures",
+    "Link building and outreach processes",
+    "Review acquisition and reputation management",
+    "Monthly reporting and KPI tracking",
+    "Team roles, responsibilities, and escalation paths",
+    "Content and copy quality standards",
+    "Tools, software, and access management"
+  ],
+  "publicApiSurface": []
 }
